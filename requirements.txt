@@ -1,0 +1,8 @@
+
+streamlit
+pandas
+openpyxl
+matplotlib
+google-generativeai
+numpy
+scikit-learn
