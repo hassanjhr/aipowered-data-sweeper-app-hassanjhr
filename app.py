@@ -83,7 +83,7 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
-st.title("✨ Data Sweeper Pro+")
+st.title("AI-Powered Data Sweeper ✨")
 st.write("Transform your files between CSV and Excel formats with built-in data cleaning, visualization, and AI insights!")
 
 # Gemini API Configuration
